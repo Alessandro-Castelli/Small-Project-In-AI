@@ -1,0 +1,179 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{gonzalezaparicio2017jrc}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=6de82a19545de94b57f9f4b8e9f7e5c0}{%
+           family={Gonzalez\bibnamedelima Aparicio},
+           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Iratxe},
+           giveni={I\bibinitperiod}}}%
+        {{hash=590f807bec2df49cebfb8766222f3384}{%
+           family={Huld},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7c25c3d82ff261189ca4c3b9cc45f7ca}{%
+           family={Careri},
+           familyi={C\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a0dbe9fa236c224b816d258a146a548a}{%
+           family={Monforti\bibnamedelima Ferrario},
+           familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=646690c134421f82843d0828dae5c5db}{%
+           family={Zucker},
+           familyi={Z\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {European Commission, Joint Research Centre (JRC)}%
+      }
+      \strng{namehash}{be67bb00adebbaece7d286855726a28e}
+      \strng{fullhash}{e6442518713eefece23e949e630c8c48}
+      \strng{bibnamehash}{be67bb00adebbaece7d286855726a28e}
+      \strng{authorbibnamehash}{be67bb00adebbaece7d286855726a28e}
+      \strng{authornamehash}{be67bb00adebbaece7d286855726a28e}
+      \strng{authorfullhash}{e6442518713eefece23e949e630c8c48}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{[Dataset]}
+      \field{note}{PID: \url{http://data.europa.eu/89h/jrc-emhires-solar-generation-time-series}}
+      \field{title}{Solar hourly generation time series at country, NUTS 1, NUTS 2 level and bidding zones}
+      \field{year}{2017}
+    \endentry
+    \entry{gonzalez-aparicio2021emhires}{dataset}{}
+      \name{author}{6}{}{%
+        {{hash=26b0ac39bb3a9e2477443e4de4cf565c}{%
+           family={Gonzalez-Aparicio},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Iratxe},
+           giveni={I\bibinitperiod}}}%
+        {{hash=646690c134421f82843d0828dae5c5db}{%
+           family={Zucker},
+           familyi={Z\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7c25c3d82ff261189ca4c3b9cc45f7ca}{%
+           family={Careri},
+           familyi={C\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=211bdd042c2b3c3861ab45960b85a740}{%
+           family={Monforti},
+           familyi={M\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=590f807bec2df49cebfb8766222f3384}{%
+           family={Huld},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7a486f51662f70dc2730236befd7878b}{%
+           family={Badger},
+           familyi={B\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{a37a9308701edaeb7133dedbb44bcbc2}
+      \strng{fullhash}{12570f367839b478f48971442d19fa68}
+      \strng{bibnamehash}{a37a9308701edaeb7133dedbb44bcbc2}
+      \strng{authorbibnamehash}{a37a9308701edaeb7133dedbb44bcbc2}
+      \strng{authornamehash}{a37a9308701edaeb7133dedbb44bcbc2}
+      \strng{authorfullhash}{12570f367839b478f48971442d19fa68}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{EMHIRES dataset: wind and solar power generation}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.5281/zenodo.8340501
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.8340501
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.8340501
+      \endverb
+    \endentry
+    \entry{iea_data}{dataset}{}
+      \name{author}{1}{}{%
+        {{hash=18fdbec513c87989c7580f31bb7f03ab}{%
+           family={IEA},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{fullhash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{bibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IEA Monthly Electricity Statistics}
+      \verb{urlraw}
+      \verb https://www.iea.org/data-and-statistics/data-product/monthly-electricity-statistics
+      \endverb
+      \verb{url}
+      \verb https://www.iea.org/data-and-statistics/data-product/monthly-electricity-statistics
+      \endverb
+    \endentry
+    \entry{Norway-Meteorological-Dataset}{online}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{note}{Avaiable on Kaggle}
+      \field{title}{Norway Meteorological Dataset}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/annbengardt/noway-meteorological-data/data
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/annbengardt/noway-meteorological-data/data
+      \endverb
+    \endentry
+    \entry{global-weather-repository}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{note}{Avaiable on Kaggle}
+      \field{title}{World Weather Repository}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
